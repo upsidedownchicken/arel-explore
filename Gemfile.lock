@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activerecord (2.3.18)
+      activesupport (= 2.3.18)
+    activesupport (2.3.18)
+    arel (9.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activerecord!
+  arel!
+
+BUNDLED WITH
+   1.16.0
